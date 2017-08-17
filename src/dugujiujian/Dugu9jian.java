@@ -8,6 +8,8 @@ public class Dugu9jian {
 		System.out.println("hello 456");
 		System.out.println("hello 456");
 		System.out.println("hello 456");
+		System.out.println("hello 123");
+		System.out.println("hello 123");
 	}
 
 }
